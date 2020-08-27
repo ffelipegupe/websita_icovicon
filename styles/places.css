@@ -1,0 +1,58 @@
+.places {
+    text-align: left;
+    display: flex;
+    flex-wrap: wrap;
+    z-index: 0;
+    width: 100%;
+    justify-content: center;
+    position: relative;
+}
+
+.places h1 {
+    font-size: 30px;
+    width: 100%;
+}
+
+.places article {
+    width: 390px;
+    padding: 20px;
+    margin: 20px;
+    border: green 1px solid;
+    border-radius: 4px;
+}
+
+.places h2 {
+    font-size: 30px;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+.price_by_night {
+    color: green;
+    border: green solid 4px;
+    border-radius: 100%;
+    min-width: 60px;
+    height: 60px;
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+    vertical-align: top;
+    float: right;
+    margin-top: -65px;
+    line-height: 60px;
+}
+
+.information {
+    border-top: 1px #DDDDDD solid;
+    border-bottom:  1px #DDDDDD solid;
+    height: 80px;
+    display: block;
+    margin-top: 10px;
+    padding-left: 30px;
+}
+
+
+.description {
+    text-align: left;
+}

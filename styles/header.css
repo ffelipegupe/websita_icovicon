@@ -1,0 +1,11 @@
+header{
+    height: 50px; 
+    width: 100%;
+    background: #ffffff url("../images/Imagen3.png") no-repeat;
+    background-size: contain;
+    background-position: 5% 50%;
+    border-bottom: 1px solid green;
+    top: 0;
+    left: 0;
+    position: relative;
+}
